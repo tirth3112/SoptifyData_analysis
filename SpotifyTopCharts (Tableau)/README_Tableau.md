@@ -31,3 +31,7 @@
 #### You can access the full Tableau Workbook from my Tableau Public by following this link: https://public.tableau.com/app/profile/tirth7406 
 
 
+
+
+
+<img src = "https://github.com/tirth3112/SoptifyData_analysis/blob/main/SpotifyTopCharts%20(Tableau)/Top_charts_Dashboard_Tableau.png" width = "800" >
