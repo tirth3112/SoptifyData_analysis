@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/tirth3112/SoptifyData_analysis">
-    <img src="https://github.com/tirth3112/SoptifyData_analysis/Images/spotify.png" alt="Logo" width="90" height="90">
+    <img src="https://github.com/tirth3112/SoptifyData_analysis/blob/main/Images/spotify.png" alt="Logo" width="90" height="90">
   </a>
 
   <h1 align="center">Spotify Song Attributes & Top Charts Data Analysis </h1>
