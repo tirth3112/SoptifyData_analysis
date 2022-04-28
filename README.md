@@ -24,7 +24,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-#### 1) Data used for this repository is collected from Kaggle datsets. I also used datset from spotify charts, it will allow to you download data as CSV file as your prfrence date ranges. 
+#### Data used for this repository is collected from Kaggle datsets. I also used datset from spotify charts, it will allow to you download data as CSV file as your prfrence date ranges. 
+
+#### You can access the data which I used and modified by following Google Drive link: https://drive.google.com/drive/u/2/folders/1VRdAfCT4DiOOX3SbbmrY5aJsJOHF_5k2
+
+#### Also you can find this data link in Data Folder.
 
 #### To get datasets follow this links : 
 #### 1) Kaggle Dataset : https://www.kaggle.com/datasets/geomack/spotifyclassification
